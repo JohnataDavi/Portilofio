@@ -1,3 +1,3 @@
 # Portilofio
-URL: https://johnatadavi.github.io/Portilofio/
+URL: https://johnatadavi.github.io/portilofio/
 
