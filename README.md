@@ -1,3 +1,3 @@
 # My Portfolio.
-https://johnatadavi.github.io/portilofio/
+https://johnatadavi.github.io/portfolio
 
